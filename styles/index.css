@@ -1,0 +1,116 @@
+p#typewrite {
+  font-size: 200%;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.hero-image {
+  margin-top: 10px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url("../img/posters/ip15.jpg");
+  height: 70vh;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 3vh;
+}
+
+.hero-text button,
+.hero-text2 button,
+.hero-text3 button {
+  margin-top: 3%;
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 10px 25px;
+  color: black;
+  background-color: #ddd;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 20px;
+}
+
+.hero-text button:hover,
+.hero-text2 button:hover,
+.hero-text3 button:hover {
+  background-color: #555;
+  color: white;
+}
+
+.hero-image2 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url("../img/posters/iphone15pro.jpg");
+  height: 90vh;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text2 {
+  text-align: center;
+  position: absolute;
+  top: 22%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 3vh;
+}
+
+.hero-image3 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url("../img/posters/macbook_final.jpg");
+  height: 100vh;
+  width: 100%;
+  background-position: center 95%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text3 {
+  text-align: center;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 3vh;
+}
+
+.hero-image,
+.hero-image2,
+.hero-image3 {
+  margin-bottom: 0.33%;
+}
+
+@media (max-width: 1000px) {
+  .hero-image2 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+      url("../img/posters/iphone15pro_vertical.jpg");
+  }
+  .hero-image3 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+      url("../img/posters/macbook_phone.jpg");
+  }
+  .hero-text button,
+  .hero-text2 button,
+  .hero-text3 button {
+    display: none;
+  }
+  h1 {
+    font-family: SF-Pro-bold;
+  }
+}

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+ <section class="iphone center_container">
+    <h1>iPhone</h1>
+    <div class="product-list">
+      <div class="product-item">
+        <img src="img/iphone/iphone-card-40-iphone15prohero-202309.jfif" alt="iPhone 15 Pro" />
+        <h2>iPhone 15 Pro</h2>
+        <p>From $999 or $41.62/mo.</p>
+        <button class="buy-button">Buy</button>
+      </div>
+      <div class="product-item">
+        <img src="img/iphone/iphone-card-40-iphone15hero-202309.jfif" alt="iPhone 15" />
+        <h2>iPhone 15</h2>
+        <p>From $799 or $33.29/mo.</p>
+        <button class="buy-button">Buy</button>
+      </div>
+      <div class="product-item">
+        <img src="img/iphone/iphone-card-40-iphone14-202209.jfif" alt="iPhone 14" />
+        <h2>iPhone 14</h2>
+        <p>From $699 or $29.12/mo.</p>
+        <button class="buy-button">Buy</button>
+      </div>
+      <div class="product-item">
+        <img src="img/iphone/iphone-card-40-iphone13hero-202309.jfif" alt="iPhone 13" />
+        <h2>iPhone 13</h2>
+        <p>From $599 or $24.95/mo.</p>
+        <button class="buy-button">Buy</button>
+      </div>
+      <div class="product-item">
+        <img src="img/iphone/iphone-card-40-iphonese-202203.jfif" alt="iPhone SE" />
+        <h2>iPhone SE</h2>
+        <p>From $429 or $17.87/mo.</p>
+        <button class="buy-button">Buy</button>
+      </div>
+    </div>
+  </section>
+  <section class="macbook center_container">
+    <h1>Mac</h1>
+    <div class="product-list">
+      <div class="product-item">
+        <img src="img/mac/mac-card-40-macbookpro-14-16-202310_GEO_US.jfif" alt="macbook pro" />
+        <h2>MacBook Pro</h2>
+        <p>From $1599 or $133.25/mo.</p>
+        <button class="buy-button">Buy</button>
+      </div>
+      <div class="product-item">
+        <img src="img/mac/mac-card-40-imac-24-202310.jfif" alt="imac" />
+        <h2>iMac</h2>
+        <p>From $1299 or $108.25/mo.</p>
+        <button class="buy-button">Buy</button>
+      </div>
+      <div class="product-item">
+        <img src="img/mac/mac-card-40-mac-mini-202301.jfif" alt="mac mini" />
+        <h2>Mac Mini</h2>
+        <p>From $599 or $49.91/mo.</p>
+        <button class="buy-button">Buy</button>
+      </div>
+
+    </div>
+  </section>
+  <section class="ipad center_container">
+    <h1>iPad</h1>
+    <div class="product-list">
+      <div class="product-item">
+        <img src="img/ipad/ipad-card-40-pro-202210.jfif" alt="ipad pro" />
+        <h2>iPad Pro</h2>
+        <p>From $799 or $66.58/mo.</p>
+        <button class="buy-button">Buy</button>
+      </div>
+      <div class="product-item">
+        <img src="img/ipad/ipad-card-40-air-202203.jfif" alt="ipad air" />
+        <h2>iPad Air</h2>
+        <p>From $599 or $49.91/mo.</p>
+        <button class="buy-button">Buy</button>
+      </div>
+      <div class="product-item">
+        <img src="img/ipad/ipad-card-40-ipad-202210.jfif" alt="ipad 10" />
+        <h2>iPad 10</h2>
+        <p>From $449 or $37.41/mo.</p>
+        <button class="buy-button">Buy</button>
+      </div>
+      <div class="product-item">
+        <img src="img/ipad/ipad-card-40-ipad-202109.jfif" alt="ipad 9" />
+        <h2>iPad 9</h2>
+        <p>From $329 or $27.41/mo.</p>
+        <button class="buy-button">Buy</button>
+      </div>
+      <div class="product-item">
+        <img src="img/ipad/ipad-card-40-ipad-mini-202109.jfif" alt="ipad mini" />
+        <h2>iPad mini</h2>
+        <p>From $499 or $41.58/mo.</p>
+        <button class="buy-button">Buy</button>
+      </div>
+    </div>
+  </section>
+  <section class="watch center_container">
+    <h1>Watch</h1>
+    <div class="product-list">
+      <div class="product-item">
+        <img src="img/watch/watch-card-40-s9-202403.jfif" alt="series 9" />
+        <h2>Watch Series 9</h2>
+        <p>From $399 or $33.25/mo.</p>
+        <button class="buy-button">Buy</button>
+      </div>
+      <div class="product-item">
+        <img src="img/watch/watch-card-40-ultra2-202403.jfif" alt="ultra 2" />
+        <h2>Watch Ultra 2</h2>
+        <p>From $799 or $66.58/mo.</p>
+        <button class="buy-button">Buy</button>
+      </div>
+      <div class="product-item">
+        <img src="img/watch/watch-card-40-se-202403.jfif" alt="se" />
+        <h2>Watch SE</h2>
+        <p>From $249 or $20.75/mo.</p>
+        <button class="buy-button">Buy</button>
+      </div>
+      <div class="product-item">
+        <img src="img/watch/watch-card-40-hermes-202403.jfif" alt="hermes" />
+        <h2>Watch Hermes</h2>
+        <p>From $1249 or $104.08/mo. per month</p>
+        <button class="buy-button">Buy</button>
+      </div>
+    </div>
+  </section>
+   <section class="airpods center_container">
+    <h1>AirPods</h1>
+    <div class="product-list">
+      <div class="product-item">
+        <img src="img/airpods/MTJV3.jfif" alt="airpods pro 2" />
+        <h2>AirPods Pro 2</h2>
+        <p>$249 or $41.50/mo.</p>
+        <button class="buy-button">Buy</button>
+      </div>
+      <div class="product-item">
+        <img src="img/airpods/MME73.jfif" alt="airpods 3" />
+        <h2>AirPods 3</h2>
+        <p>$179 or $29.83/mo.</p>
+        <button class="buy-button">Buy</button>
+      </div>
+      <div class="product-item">
+        <img src="img/airpods/MV7N2.jfif" alt="airpods 2" />
+        <h2>AirPods 2</h2>
+        <p>$129 or $21.50/mo.</p>
+        <button class="buy-button">Buy</button>
+      </div>
+    </div>
+  </section>
+</products>
